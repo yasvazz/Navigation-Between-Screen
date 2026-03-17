@@ -21,7 +21,7 @@ fun PedidosScreen(modifier: Modifier = Modifier, navController: NavController) {
     Box(
         modifier = modifier
             .fillMaxSize()
-            .background(Color(0xFFFA9A9A9))
+            .background(Color(0xFFFFA9A9))
             .padding(32.dp)
     ) {
         Text(
